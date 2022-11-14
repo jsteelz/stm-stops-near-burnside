@@ -1,0 +1,15 @@
+{
+  "name": "stm-stops-near-mcgill",
+  "version": "1.0.0",
+  "description": "find the stm stops near burnside hall",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jsteelz",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "papaparse": "^5.3.2"
+  }
+}
